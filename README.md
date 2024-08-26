@@ -12,6 +12,10 @@ Currently, we are only these four methods:
 |:-------|:-------------:|
 | CoT  | [code](lec1_cot.ipynb)    |
 | Self-Refine  | [code](lec2_self_refine.ipynb)    | 
+| Plan and Execute  | [code](lec3_plan_and_execute.ipynb)    | 
+| tools  | [code1](lec4_tool1.ipynb) ,[code2](lec4_tool2.ipynb), [code3](lec4_tool3.ipynb)   | 
+| P&E with tool | [code1](lec5_plan_and_execute_with_tool_execute.ipynb), [code2](lec5_plan_and_execute_with_tool_plan.ipynb)    | 
+| React  | [code](lec6_react.ipynb)    | 
 
 
 
